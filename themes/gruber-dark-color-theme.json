@@ -348,10 +348,25 @@
     },
 
     // Golang
-
     {
       "name": "Go function decorators",
       "scope": "keyword.function.go",
+      "settings": {
+        "foreground": "#ffd900",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Go variables",
+      "scope": ["variable.other.assignment.go", "variable.other.declaration.go"],
+      "settings": {
+        "foreground": "#9e95c7",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Go type keyword",
+      "scope": ["keyword.type.go", "keyword.package.go", "keyword.import.go", "keyword.var.go"],
       "settings": {
         "foreground": "#ffd900",
         "fontStyle": "bold"
