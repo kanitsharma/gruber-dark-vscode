@@ -1,85 +1,63 @@
 {
   "name": "gruber-dark",
   "colors": {
-    // Base colors
-    "foreground": "#dddddd",
-    "icon.foreground": "#ffd900",
-    "sash.hoverBorder": "#ffd900",
-    "focusBorder": "#ffd900",
-
-    //Text colors
-    "textCodeBlock.background": "#181818",
-    "textLink.foreground": "#ffd900",
-    "textLink.activeForeground": "#73c936",
-
-    // Activity bar
-    "activityBar.background": "#181818",
-    "activityBar.activeBorder": "#ffd900",
-    "activityBar.foreground": "#ffd900",
-    "activityBar.inactiveForeground": "#dddddd",
-
-    // Toolbar
-
-    // Buttons
-    "button.background": "#ffd900",
-    "button.foreground": "#181818",
-    "button.hoverBackground": "#ffd900",
-    "checkbox.background": "#181818",
-    "checkbox.border": "#ffd900",
-    "checkbox.foreground": "#ffd900",
-
-    // Badge
-    "badge.background": "#ffd900",
-    "badge.foreground": "#181818",
-
-    // Side Bar
-    "sideBar.background": "#282828",
-    "sideBarSectionHeader.foreground": "#ffd900",
-    "sideBarSectionHeader.background": "#282828",
-
-    // Lists
-    "list.activeSelectionBackground": "#ffd900",
-    "list.activeSelectionForeground": "#181818",
-    "list.activeSelectionIconForeground": "#181818",
-    "list.focusHighlightForeground": "#181818",
-    "list.highlightForeground": "#ffd900",
-
-    // Editor colors
-    "editor.background": "#181818",
-    "editor.foreground": "#dddddd",
-    "editorLineNumber.foreground": "#6b6b6b",
-    "editorLineNumber.activeForeground": "#ffd900",
-    "editorCursor.foreground": "#ffd900",
-    "editor.selectionBackground": "#cccccc22",
-
-    // Editor widget colors
-    "editorSuggestWidget.focusHighlightForeground": "#181818",
-    "editorSuggestWidget.highlightForeground": "#ffd900",
-
-    // Editor gutter
-    "editorGutter.modifiedBackground": "#ffd900",
-    "editorGutter.addedBackground": "#73c936",
-    "editorGutter.deletedBackground": "#ffd900",
-
-    // Matching bracket colors (boo!)
-    "editorBracketHighlight.foreground1": "#dddddd",
-    "editorBracketHighlight.foreground2": "#6b6b6b",
-    "editorBracketHighlight.foreground3": "#dddddd",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#ffd900",
-
-    // Diff editor
-    "diffEditorGutter.insertedLineBackground": "#73c936",
-
-    // Status bar
-    "statusBar.background": "#ffd900",
-    "statusBar.foreground": "#181818",
-    "statusBar.debuggingBackground": "#73c936",
-    "statusBar.noFolderForeground": "#181818",
-    "statusBar.noFolderBackground": "#ffd900",
-
-    // Breadcrumbs
-    "breadcrumb.focusForeground": "#ffd900",
-    "breadcrumb.activeSelectionForeground": "#73c936"
+    "editor.lineHighlightBackground": "#65737e30",
+    "editor.background": "#1F212A",
+    "editorCursor.foreground": "#c0c5ce",
+    "editor.selectionBackground": "#343d46",
+    "editor.foreground": "#c0c5ce",
+    "editorWhitespace.foreground": "#65737e",
+    "editorIndentGuide.background": "#3b5364",
+    "sideBar.background": "#1c1f26",
+    "activityBar.background": "#1c1f26",
+    "sideBarSectionHeader.background": "#1c1f26",
+    "editorGroupHeader.tabsBackground": "#1c1f26",
+    "editorGroup.dropBackground": "#1c1f26",
+    "tab.border": "#1c1f26",
+    "tab.inactiveForeground": "#65737f",
+    "tab.inactiveBackground": "#1c1f26",
+    "statusBar.background": "#1c1f26",
+    "statusBar.foreground": "#65737f",
+    "statusBar.debuggingBackground": "#F03A47",
+    "statusBar.debuggingForeground": "#F5FAFF",
+    "statusBar.noFolderBackground": "#7e7edd",
+    "statusBar.noFolderForeground": "#F5FAFF",
+    "titleBar.inactiveBackground": "#1c1f26",
+    "titleBar.activeBackground": "#1c1f26",
+    "list.activeSelectionBackground": "#343d46",
+    "list.inactiveSelectionBackground": "#343d46",
+    "list.focusBackground": "#343d46",
+    "list.hoverBackground": "#1c1f26",
+    "input.background": "#1c1f26",
+    "dropdown.background": "#1c1f26",
+    "editorWidget.background": "#232830",
+    "editorHoverWidget.background": "#232830",
+    "editorHoverWidget.border": "#343d46",
+    "diffEditor.insertedTextBackground": "#43d08a10",
+    "diffEditor.removedTextBackground": "#e052521a",
+    "editorGutter.modifiedBackground": "#4f71ff",
+    "editorGutter.addedBackground": "#4FFF95",
+    "debugToolBar.background": "#1F212A",
+    "debugIcon.stepIntoForeground": "#85b1e0",
+    "debugIcon.stepOutForeground": "#85b1e0",
+    "debugIcon.continueForeground": "#85b1e0",
+    "debugIcon.stepOverForeground": "#85b1e0",
+    "debugIcon.pauseForeground": "#85b1e0",
+    "debugIcon.disconnectForeground": "#F03A47",
+    "debugIcon.stopForeground": "#F03A47",
+    "editor.stackFrameHighlightBackground": "#343d46",
+    "debugIcon.breakpointCurrentStackframeForeground": "#BDC5E8",
+    "debugIcon.breakpointForeground": "#F03A47",
+    "editorRuler.foreground": "#2D303A",
+    "editorWarning.foreground": "#eddfc0",
+    "editorError.foreground": "#F03A47",
+    "editorInfo.foreground": "#85b1e0",
+    "notificationsInfoIcon.foreground": "#9CDCFE",
+    "notificationsWarningIcon.foreground": "#eddfc0",
+    "notificationsErrorIcon.foreground": "#F03A47",
+    "editor.findMatchBackground": "#4f5b66",
+    "editor.findMatchHighlightBackground": "#4f5b6699",
+    "editor.foldBackground": "#4f5b6620"
   },
   "tokenColors": [
     {
@@ -371,6 +349,17 @@
         "foreground": "#ffd900",
         "fontStyle": "bold"
       }
-    }
+    },
+
+    // Golang
+
+    {
+      "name": "Go function decorators",
+      "scope": "keyword.function.go",
+      "settings": {
+        "foreground": "#ffd900",
+        "fontStyle": "bold"
+      }
+    },
   ]
 }
