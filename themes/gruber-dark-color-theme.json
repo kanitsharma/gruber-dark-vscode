@@ -65,10 +65,6 @@
       "scope": ["punctuation.brackets.curly"],
       "settings": {
         "foreground": "#dddddd"
-        /* 
-					There were some issues with macro definitions wronly
-					coloring curly brackets
-				*/
       }
     },
     {
@@ -185,8 +181,8 @@
       }
     },
     /*
-			[RUST-SPECIFIC MODIFICATIONS]
-		*/
+		[RUST-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "Rust metavariable",
       "scope": "variable.other.metavariable.name",
@@ -219,8 +215,8 @@
       }
     },
     /*
-			[PYTHON-SPECIFIC MODIFICATIONS]
-		*/
+		[PYTHON-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "Python magic",
       "scope": [
@@ -241,8 +237,8 @@
       }
     },
     /*
-			[C/C++-SPECIFIC MODIFICATIONS]
-		*/
+		[C/C++-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "C/C++ hex notation fix",
       "scope": "keyword.other.unit.hexadecimal",
@@ -260,8 +256,8 @@
       }
     },
     /*
-			[JAVA-SPECIFIC MODIFICATIONS]
-		*/
+		[JAVA-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "Import fix",
       "scope": [
@@ -274,8 +270,8 @@
       }
     },
     /*
-			[MARKUP-SPECIFIC MODIFICATIONS]
-		*/
+		[MARKUP-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "Markup headers",
       "scope": ["markup.heading"],
@@ -309,8 +305,8 @@
       }
     },
     /*
-			[JSON-SPECIFIC MODIFICATIONS]
-		*/
+		[JSON-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "JSON property name",
       "scope": "support.type.property-name.json",
@@ -319,8 +315,8 @@
       }
     },
     /*
-			[XML-SPECIFIC MODIFICATIONS]
-		*/
+		[XML-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "XML property name",
       "scope": "meta.tag.xml",
@@ -329,8 +325,8 @@
       }
     },
     /*
-			[TOML-SPECIFIC MODIFICATIONS]
-		*/
+		[TOML-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "TOLM table tag",
       "scope": "meta.tag.table.toml",
@@ -340,8 +336,8 @@
       }
     },
     /*
-			[LUA-SPECIFIC MODIFICATIONS]
-		*/
+		[LUA-SPECIFIC MODIFICATIONS]
+	*/
     {
       "name": "LUA keyword local",
       "scope": "keyword.local.lua",
