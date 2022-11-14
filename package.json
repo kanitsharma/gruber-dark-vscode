@@ -17,5 +17,9 @@
         "path": "./themes/gruber-dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanitsharma/gruber-dark-vscode.git"
   }
 }
