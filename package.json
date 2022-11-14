@@ -1,0 +1,21 @@
+{
+  "name": "gruber-dark-vscode",
+  "displayName": "gruber-dark-vscode",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gruber-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruber-dark-color-theme.json"
+      }
+    ]
+  }
+}
