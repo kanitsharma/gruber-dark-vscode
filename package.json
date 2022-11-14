@@ -3,7 +3,7 @@
   "displayName": "Gruber Dark",
   "description": "A slightly modified version of Gruber Darker color theme for Emacs.",
   "publisher": "kanitsharma",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.73.0"
   },
