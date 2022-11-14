@@ -1,7 +1,7 @@
 {
   "name": "gruber-dark-vscode",
-  "displayName": "gruber-dark-vscode",
-  "description": "",
+  "displayName": "Gruber Dark",
+  "description": "A slightly modified version of Gruber Darker color theme for Emacs.",
   "publisher": "kanitsharma",
   "version": "0.0.1",
   "engines": {
