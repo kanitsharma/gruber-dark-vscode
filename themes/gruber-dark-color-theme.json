@@ -90,7 +90,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -108,7 +108,7 @@
         "storage.type.primitive"
       ],
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": ""
       }
     },
@@ -194,7 +194,7 @@
       "name": "Rust metavariable type identifier",
       "scope": "variable.other.metavariable.specifier",
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": ""
       }
     },
@@ -202,7 +202,7 @@
       "name": "Rust Result",
       "scope": ["entity.name.type.result", "entity.name.type.option"],
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -232,7 +232,7 @@
       "name": "Python function decorators",
       "scope": "meta.function.decorator.python",
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -251,7 +251,7 @@
       "name": "C/C++ builtin types fix",
       "scope": "storage.type.built-in.primitive.c",
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": ""
       }
     },
@@ -276,7 +276,7 @@
       "name": "Markup headers",
       "scope": ["markup.heading"],
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -300,7 +300,7 @@
       "name": "Markup quote",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": ""
       }
     },
@@ -311,7 +311,7 @@
       "name": "JSON property name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#ffd900"
+        "foreground": "#ebc800"
       }
     },
     /*
@@ -321,7 +321,7 @@
       "name": "XML property name",
       "scope": "meta.tag.xml",
       "settings": {
-        "foreground": "#ffd900"
+        "foreground": "#ebc800"
       }
     },
     /*
@@ -331,7 +331,7 @@
       "name": "TOLM table tag",
       "scope": "meta.tag.table.toml",
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -342,7 +342,7 @@
       "name": "LUA keyword local",
       "scope": "keyword.local.lua",
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -352,7 +352,7 @@
       "name": "Go function decorators",
       "scope": "keyword.function.go",
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -368,7 +368,7 @@
       "name": "Go type keyword",
       "scope": ["keyword.type.go", "keyword.package.go", "keyword.import.go", "keyword.var.go"],
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
@@ -378,7 +378,7 @@
       "name": "Go type keyword",
       "scope": ["entity.name.tag.js"],
       "settings": {
-        "foreground": "#ffd900",
+        "foreground": "#ebc800",
         "fontStyle": "bold"
       }
     },
